@@ -1,2 +1,8 @@
 C:\02Workspaces\K00React> rmdir /s node_modules
-C:\02Workspaces\K00React> del package-lock.jsoncd
+C:\02Workspaces\K00React> del package-lock.json
+
+
+
+API Key : 6c7dd782f895834da70d4dd5b41ae657
+
+gs://myreact01-42164.firebasestorage.app
